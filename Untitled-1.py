@@ -15,7 +15,7 @@ bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
 STARS_USD_PAYOUT = 0.013
-RETAIL_RUB_RATE = 1.5
+RETAIL_RUB_RATE = 1.8
 
 def get_usd_to_rub():
     try:

@@ -8,7 +8,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from aiohttp import web
 
 # Токен вашего бота от @BotFather
-API_TOKEN = '8903668038:AAGWFK4iZcLUHdtl-hcpxRapl9RJnnxTrt8'
+API_TOKEN = '8903668038:AAEKRPbwGJSrmHJ6uYqde6y-gbW_U_HcPCY'
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
